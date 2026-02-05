@@ -40,7 +40,7 @@ services:
       EMAIL_HOST: smtp.gmail.com
       EMAIL_PORT: 587
       EMAIL_USERNAME: brijeshshahi409@gmail.com
-      EMAIL_PASSWORD: fydzlkwsazwlclkm
+      EMAIL_PASSWORD: fydzlkws
       EMAIL_DOMAIN: brijeshshahi409@gmail.com
       CLOUDINARY_API_KEY: 575233445171369
       CLOUDINARY_API_SECRET: WF88TQpJyKATyZCv4o4M0dx3xEQ
